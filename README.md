@@ -12,6 +12,8 @@ The Hospital Management System is a Terminal-C++ application designed to manage 
 - **Discharge Patient**: Remove a patient from the system and organize IDs.
 - **Data Persistence**: Patient data is stored in a binary file (`hospital.dat`).
 
+For a detailed presentation of the project, check out [`presentation.pptx`](./presentation.pptx).
+
 ## Requirements
 - C++ Compiler (e.g., g++, MSVC)
 
