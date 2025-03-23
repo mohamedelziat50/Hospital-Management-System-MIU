@@ -1,0 +1,5 @@
+# Ignore compiled files
+*.exe
+
+# Ignore data files (No need for them - Just start over with a new system)
+*.dat
