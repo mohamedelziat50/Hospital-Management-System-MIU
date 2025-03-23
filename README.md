@@ -3,6 +3,8 @@
 ## Overview
 The Hospital Management System is a Terminal-C++ application designed to manage patient records in a hospital setting. It allows users to perform various operations such as adding patients, searching for patients, calculating bills, updating patient information, and discharging patients. The data is stored in a binary file for persistence.
 
+![Image](https://github.com/user-attachments/assets/340ce1b3-9432-4971-afc2-16268c8032fb)
+
 ## Features
 - **Display Patients**: View all registered patients and their details.
 - **Add Patient**: Add a new patient to the system with auto-incremented ID.
@@ -20,4 +22,4 @@ For a detailed presentation of the project, check out [`presentation.pptx`](./pr
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohamedelziat50/Hospital-Managment-System-MIU.git
+   git clone https://github.com/mohamedelziat50/Hospital-Management-System-MIU.git
